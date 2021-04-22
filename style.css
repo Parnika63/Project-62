@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    background-color: #fec5bb;
+
+}
+
+#First{
+    width: 900px;
+    
+}
+
+#img1 {
+    width: 700px;
+    height: 400px;
+    outline-color: orangered;
+
+}
+
+#img2 {
+    width: 700px;
+    height: 400px;
+    outline-color: orange;
+
+}
+
+#img3 { height: 700px;
+    height: 400px;
+outline-color: yellow
+    
+}
+#img4 {
+    width: 700px;
+    height: 400px;
+    outline-color: greenyellow;
+}
+#img5 {
+    width: 700px;;
+    height: 400px;
+    outline-color: skyblue;
+}
+#img6 {
+    width: 700px;
+    height: 400px;
+    outline-color: plum;
+    
+}
+#img7 {
+    width: 700px;
+    height: 400px;
+   outline-color: palevioletred;
+    
+}
+#A1{ width: 700px;
+    height: 400px;
+    
+}
+
+#A2{ width: 700px;
+    
+}
+#A5{ width: 500px;
+    
+}
